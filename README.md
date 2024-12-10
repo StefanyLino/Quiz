@@ -1,2 +1,1 @@
-# quizCapitais_php_stefany
- 
+# QUIZ ⋆｡°✩
